@@ -15,7 +15,28 @@
     border: 1px solid black;
     display: flex;
     justify-content: center;
-    align-items: center;  
+    align-items: center;
+    cursor: pointer;  
+}
+
+.box2{
+    background-color: rgba(192, 189, 189, 0.4);
+    width: calc(100% / 9);
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    cursor: pointer;  
+}
+
+.box3{
+    background-color: rgba(192, 189, 189, 0.4);
+    width: calc(100% / 7);
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
 }
 
 .blue{
